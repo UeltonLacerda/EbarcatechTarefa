@@ -1,8 +1,9 @@
 #include <stdio.h>
+
 int main() 
 
 {
-  char operacao;
+  char operacao;                 //Modificado 
   
   float numero;
   
