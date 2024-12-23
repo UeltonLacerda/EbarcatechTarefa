@@ -3,9 +3,9 @@
 int main() 
 
 {
-  char operacao;                 //Modificado para envio
+  char operacao; //Modificado para envio
   
-  float numero;
+  float numero; //Modificado em 22/12
   
   	printf("Escolha uma opcao para conversao: \n\n");
 	printf("Digite [1] para conversao de tonelada para quilo: \n");
